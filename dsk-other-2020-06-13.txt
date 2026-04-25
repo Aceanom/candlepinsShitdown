@@ -1,0 +1,10 @@
+3.0G	./atomic-cd/
+786M	./backups/
+908K	./buildgroups/
+441G	./images/
+2.1M	./mass-rebuild/
+970G	./ostree
+4.0K	./ostree-new
+821G	./ostree.orig-20200224
+259G	./scratch/
+3.9T	./work/
